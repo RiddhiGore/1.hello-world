@@ -10,6 +10,9 @@ output "hello1" {
 
 
 // https://developer.hashicorp.com/terraform/language/block/output#sensitive
+// git clone https://github.com/RiddhiGore/1.hello-world.git
+// git checkout -b branch-name
+//  git status
 //to run to this program  go to folder run below command 
 // terraform plan 
 // terraform validate
