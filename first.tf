@@ -3,7 +3,7 @@
 //}
 
 output "hello1" {
-  value     = "hello world"
+  value     = "hello world new"
   sensitive = false //Specifies if Terraform hides this value in CLI output.- set true or false terra
 
 }
@@ -19,6 +19,9 @@ output "hello1" {
 //  git config --global user.name "Riddhi"
 // git push
 //  git push --set-upstream origin first_branch
+
+// https://app.terraform.io/app/riddhi-org/workspaces/new
+
 //to run to this program  go to folder run below command 
 // terraform plan 
 // terraform validate
