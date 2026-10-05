@@ -3,10 +3,11 @@
 //}
 
 output "hello1" {
-  value     = "hello world new"
+  value     = "hello world"
   sensitive = false //Specifies if Terraform hides this value in CLI output.- set true or false terra
 
 }
+
 
 
 //  https://developer.hashicorp.com/terraform/language/block/output#sensitive
